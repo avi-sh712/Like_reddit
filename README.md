@@ -20,9 +20,3 @@ A lightweight, Reddit-style mobile application built using Java and Android SDK.
 
 > Achieved a **25% improvement** in scrolling and rendering speed through smart use of `RecyclerView.Adapter` and minimizing layout overdraw.
 
-## 📸 Screenshots
-
-> *(Add screenshots of feed screen, comment screen, and login screen here if available)*
-
-## 📁 Folder Structure
-
